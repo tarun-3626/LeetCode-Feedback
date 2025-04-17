@@ -90,7 +90,7 @@ body:
     id: screenshots
     attributes:
       label: 屏幕截图
-      description: 添加屏幕截图协助我们定位问题
+      description: 
     validations:
       required: false
   - type: textarea
